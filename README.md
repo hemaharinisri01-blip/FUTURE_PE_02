@@ -46,3 +46,6 @@ To create AI-generated UGC advertisements, social media captions, hooks, and cal
 ### Outcome
 
 Successfully created a professional UGC Content Pack for a fitness application, including high-converting ad scripts, captions, hooks, and CTAs tailored for multiple social media platforms.
+## Screenshots
+
+Screenshots of prompts and generated outputs are available in the screenshots folder.
